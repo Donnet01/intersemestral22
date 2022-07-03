@@ -1,0 +1,1000 @@
+   67  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   68  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   69  export PAGER=cat
+   70  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   71  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   72  export PAGER=cat
+   73  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   74  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   75  export PAGER=cat
+   76  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   77  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   78  export PAGER=cat
+   79  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   80  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   81  export PAGER=cat
+   82  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   83  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   84  export PAGER=cat
+   85  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   86  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   87  export PAGER=cat
+   88  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   89  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   90  export PAGER=cat
+   91  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   92  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+   93  export PAGER=cat
+   94  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+   95  grep MI
+   96  PWD
+   97  pwd
+   98  ls
+   99  cd TAREAS
+  100  ls
+  101  cd enrique/
+  102  ls
+  103  head -1 covidM.csv  | tr "," "/n"
+  104  head -1 covidM.csv  | tr "," "\n"
+  105  head -1 covidM.csv  | tr "," "\n" > col01
+  106  grep Gudalajara covidM.csv | tr "," "\n" > col2
+  107  ls -a
+  108  touch j
+  109  ls -ld .
+  110  id
+  111  ls
+  112  cd TAREAS/Donnet/
+  113  ls
+  114  hystory | tail
+  115  history | tail
+  116  head -1 covidM.csv | tr "," "\n"
+  117  head -1 covidM.csv | tr "," "\n" > col01
+  118  grep Guadalajara covidM.csv | tr "," "\n" > col 02
+  119  grep Guadalajara covidM.csv | tr "," "\n" > col02
+  120  head col02
+  121  wc -l col0?
+  122  ls
+  123  ls com*
+  124  ls com?
+  125  wc -l col01?
+  126  wc -l col0?
+  127  history | tail
+  128  history > jun16_10:30.log
+  129  less jun16_10\:30.log 
+  130  history | tail -5
+  131  paste col01 col02 > test1
+  132  head test1 
+  133  head -3 col*
+  134  join col01 col02 > test2
+  135  cat col01 > test2
+  136  cat col02 >> test2
+  137  less test2
+  138  tar -cvf ejemplo.tar *.txt
+  139  ls -r ejemplo.tar
+  140  ls rtl *tar
+  141  ls -rthl *tar
+  142  ll covidM.csv 
+  143  bzip2 covidM.csv 
+  144  ll covidM.csv 
+  145  ll covidM.csv.bz2
+  146  bzgrep Guadalajara covidM.csv.bz2
+  147  ls -n covidM.cdv.bz2
+  148  ls covidM.cdv.bz2
+  149  ll covidM.cdv.bz2
+  150  alias ll="ls-lh"
+  151  ll covidM.cdv.bz2
+  152  vi profile
+  153  alias ll="ls-lh"
+  154  ll covidM.csv.bz2 
+  155  alias ll="ls -lh"
+  156  ll covidM.csv.bz2 
+  157  cd ../
+  158  ls -h
+  159  ll -h
+  160  la
+  161  alias la="ls -a"
+  162  la
+  163  cd 
+  164  la
+  165  cd TAREAS/Donnet/
+  166  ls
+  167  hystory > jun16_10\:30.log 
+  168  history > jun16_10\:30.log 
+  169  ssh -l
+  170  ssh donnet@132.248.103.189 -Y
+  171  history > jun16_10\:30.log 
+  172  vi jun16_10\:30.log 
+  173  history > jun16_10\:30.02.log 
+  174  VAR=$(comando)echo $PS1
+  175  echo $PS1
+  176  PS1="Nueva orden: "
+  177  ls
+  178  ls -F
+  179  exit
+  180  cd TAREAS/Donnet/
+  181  la
+  182  ls
+  183  bunzip2 covidM.csv.bz2 
+  184  la
+  185  ls
+  186  less covidM.csv 
+  187  less -S  covidM.csv 
+  188  grep Chalco
+  189  grep Chalco covidM.csv  | less -S
+  190  grep chalco covidM.csv 
+  191  grep chalco covidM.csv | less -S
+  192  grep -i chalco covidM.csv | less -S
+  193  grep Chalco covidM.csv | less -S
+  194  grep -w Chalco covidM.csv | less -S
+  195  grep -w "Chalco" covidM.csv | less -S
+  196  grep -w \"Chalco\" covidM.csv | less -S
+  197  grep -w \"Chalco\" covidM.csv | less -S > editar
+  198  grep -w \"Chalco\" covidM.csv | head -1 | less -S
+  199  grep -w \"Chalco\" covidM.csv | grep -v Valle | less -S
+  200  grep -w Chalco covidM.csv > editar 
+  201  grep -w \"Chalco\" covidM.csv > editar 
+  202  vim
+  203  ls -lrt
+  204  date
+  205  cat 15-junio.texto 
+  206  vim otro-archivo 
+  207  cat tercer-archivo 
+  208  cat otro-archivo 
+  209  vim otro-archivo 
+  210  .vimrc
+  211  .vimcd
+  212  ls -a
+  213  cd /
+  214  ls
+  215  cd home/
+  216  ls
+  217  cd ../
+  218  cd tmp/
+  219  ls
+  220  cd ../
+  221  cd home/curso2022/alumno04
+  222  ls
+  223  cd TAREAS
+  224  cd Donnet/
+  225  diff otro-archivo
+  226  ls
+  227  diff otro-archivo tercer-archivo 
+  228  vim diff
+  229  vimdiff otro-archivo tercer-archivo 
+  230  history jun16_10\:30.log 
+  231  history jun16_10.02\:30.log 
+  232  ls
+  233  ls -v
+  234  history jun16_10.02\:30.log 
+  235  history > jun16_10\:30.02.log 
+  236  ls
+  237  vim jun16_10\:30.02.log 
+  238  w
+  239  history > jun16_10\:30.02.log 
+  240  pwd
+  241  ls
+  242  cd TAREAS
+  243  ls
+  244  cd Donnet/
+  245  ls
+  246  wc Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  247  cat /etc/os-release | 
+  248  wc 
+  249  wc 
+  250  wc -l 
+  251  grep -i miguek Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  252  grep -i miguel Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  253  grep -i miguel Casos_Diarios_Municipio_Confirmados_20220614.csv | wc -l
+  254  clear
+  255  grep -i miguel Casos_Diarios_Municipio_Confirmados_20220614.csv | wc -l
+  256  grep -i miguel Casos_Diarios_Municipio_Confirmados_20220614.csv | wc -l | vim -
+  257  grep -i miguel Casos_Diarios_Municipio_Confirmados_20220614.csv | vim -
+  258  grep -i miguel Casos_Diarios_Municipio_Confirmados_20220614.csv > mun-miguel
+  259  vim mun-miguel 
+  260  grep -i "\Chalco\" Casos_Diarios_Municipio_Confirmados_20220614.csv | vim -
+  261  done
+  262  grep -i "\Chalco\" Casos_Diarios_Municipio_Confirmados_20220614.csv | vim -
+  263  grep -i "\Hidalgo"\ Casos_Diarios_Municipio_Confirmados_20220614.csv | vim -
+  264  grep -i \Hidalgo" Casos_Diarios_Municipio_Confirmados_20220614.csv | vim -
+  265  done
+  266  grep -i Hidalgo Casos_Diarios_Municipio_Confirmados_20220614.csv | vim -
+  267  vi mun-miguel 
+  268  cd TAREAS/Donnet/
+  269  cp \$HOME/TAREAS/DAN/Casos* .
+  270  cp $HOME/TAREAS/DAN/Casos* .
+  271  ls
+  272  man GNU
+  273  man MAN
+  274  man gnu
+  275  histoy
+  276  history
+  277  history | -wc
+  278  history | wc
+  279  man grep
+  280  man 1 diff
+  281  ls /
+  282  ls -F /etc
+  283  ls -F /etc/
+  284  ls -F /etc/os-relase
+  285  ls -F /etc/os-release
+  286  cat ls -F /etc/os-release
+  287  cat -F /etc/os-release
+  288  cat/etc/os-release
+  289  cat /etc/os-release
+  290  cat /etc/os-release | vim -
+  291  cal
+  292  cd TAREAS/Donnet/
+  293  ls
+  294  vim mun-miguel 
+  295  ls -a
+  296  vim mun-miguel 
+  297  vim .mun-miguel.swp 
+  298  vim mun-miguel 
+  299  rm .mun-miguel.swp 
+  300  vim mun-miguel 
+  301  cd /
+  302  cd /home/
+  303  cd /
+  304  ls
+  305  cd home
+  306  ls
+  307  cd Donnet
+  308  cd curso2022/
+  309  cd TAREAS/
+  310  cd Donnet/
+  311  cd ../../
+  312  passwd
+  313  ps ax
+  314  ps ax wc
+  315  ps ax| wc
+  316  tmux
+  317  tmux a
+  318  tmux ls
+  319  tmux a
+  320  exit
+  321  exit
+  322  ls
+  323  cd TAREAS/Donnet/
+  324  man
+  325  man ls
+  326  vim Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  327  exit
+  328  man grep
+  329  exit
+  330  hola
+  331  exit
+  332  hola de nuevo
+  333  exit
+  334  tmux ls
+  335  tmux a
+  336  tmux ls
+  337  tmux a
+  338  history > 17.jun.22.dat
+  339  vim 17.jun.22.dat 
+  340  exit
+  341  ls
+  342  head
+  343  cd TAREAS/Donnet/
+  344  ls
+  345  exit
+  346  cd TAREAS/Donnet/
+  347  ls
+  348  ps ax
+  349  ps ax | head Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  350  ps ax | head Casos_Diarios_Municipio_Confirmados_20220614.csv | less 
+  351  head Casos_Diarios_Municipio_Confirmados_20220614.csv |tr "," "\n" |  less > LISTADO
+  352  head Casos_Diarios_Municipio_Confirmados_20220614.csv |tr "," "\n" > LISTADO
+  353  head Casos_Diarios_Municipio_Confirmados_20220614.csv |tr "," "\n" 1> LISTADO
+  354  head Casos_Diarios_Municipio_Confirmados_20220614.csv |tr "," "\n" > LISTADO
+  355  ls 
+  356  vim Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  357  greo -i hodalgo | less -SN  modificado001.csv 
+  358  greo -i hodalgo modificado001.csv | less -SN
+  359  grep -i hidalgo modificado001.csv | less -SN
+  360  info coreutils
+  361  sudo -l soporte 
+  362  su -l soporte 
+  363  pinfo coreutils
+  364  cat Casos_Diarios_Municipio_Confirmados_20220614.csv | tr [A-Z] [a-z-] | less -SN
+  365  cat Casos_Diarios_Municipio_Confirmados_20220614.csv | tr [A-C] [a-c] | less -SN
+  366  cat Casos_Diarios_Municipio_Confirmados_20220614.csv | tr [:lower:] [:upper:] | less -SN
+  367  man tr | wc
+  368  man tr | wc -l
+  369  man ls | wc -l
+  370  exit
+  371  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+  372  export PAGER=cat
+  373  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+  374  comp=$(cut -d, -f2 lista.dat | sort -u)
+  375  echo $comp[@]
+  376  echo $?
+  377  comp=$(cut -d, -f2 lista.dat | sort -u)
+  378  echo $comp
+  379  echo $?
+  380  comp=$(cut -d, -f2 lista.dat | sort -u)
+  381  echo $comp[1]
+  382  echo $?
+  383  comp=$(cut -d, -f2 lista.dat | sort -u)
+  384  echo $comp
+  385  echo $?
+  386  comp=$(cut -d, -f2 lista.dat | sort -u)
+  387  echo ${comp[1]}
+  388  echo $?
+  389  comp=$(cut -d, -f2 lista.dat | sort -u)
+  390  echo $comp[1]
+  391  echo $?
+  392  comp=$(cut -d, -f2 lista.dat | sort -u)
+  393  echo ${#comp{@}}
+  394  echo $?
+  395  comp=$(cut -d, -f2 lista.dat | sort -u)
+  396  echo ${#comp}
+  397  echo $?
+  398  comp=$(cut -d, -f2 lista.dat | sort -u)
+  399  echo ${#comp}
+  400  echo $comp
+  401  echo $?
+  402  tmux
+  403  tmux ls
+  404  tmux a
+  405  exit
+  406  tmux
+  407  tmux a
+  408  tmus ls
+  409  tmux ls
+  410  exit
+  411  cd TAREAS/Donnet/
+  412  vim
+  413  cd TAREAS/Donnet/
+  414  ./funcion01.sh Arg1 23 tercero
+  415  chmod +x funcion01.sh 
+  416  ./funcion01.sh Arg1 23 tercero
+  417  chmod +x funcion01.sh 
+  418  ./funcion01.sh Arg1 23 tercero
+  419  vim funcion01.sh 
+  420  ./funcion01.sh Arg1 23 tercero
+  421  chmod +x funcion01.sh 
+  422  ./funcion01.sh Arg1 23 tercero
+  423  vim funcion01.sh 
+  424  chmod +x funcion02.sh 
+  425  vim funcion02.sh 
+  426  ls .
+  427  vim funcion02.sh 
+  428  ./funcion02.sh
+  429  ./funcion02.sh Pedrp
+  430  ./funcion02.sh Pedro
+  431  ./funcion02.sh Pedro 15
+  432  ./funcion02.sh Pedro
+  433  ./funcion02.sh Pedro 15
+  434  ./funcion02.sh Pedro
+  435  ./funcion02.sh Pedro 1
+  436  ./funcion02.sh Pedro
+  437  ./funcion02.sh Pedro 13
+  438  ./funcion02.sh Pedro
+  439  ./funcion02.sh Pedro 15
+  440  ./funcion02.sh Pedro 17
+  441  ./funcion02.sh Pedro 15a
+  442  ./funcion02.sh Pedro 15
+  443  ./funcion02.sh Pedro 17
+  444  ./funcion02.sh Pedro 15
+  445  ./funcion02.sh Pedrito 15
+  446  ./funcion02.sh Pedrito 17
+  447  ./funcion02.sh Pedro 14
+  448  ./funcion02.sh < datos.in
+  449  mv datos.in < entrada
+  450  mv datos.in > entrada
+  451  mv datos.in  entrada
+  452  ./funcion02.sh < entrada 
+  453  ./funcion02.sh < entrada < salida
+  454  ./funcion02.sh < entrada > salida
+  455  vim salida 
+  456  ./funcion02.sh < entrada > salid2a > err
+  457  more err
+  458  ./funcion02.sh < entrada 2 > err
+  459  rm salid*
+  460  ./funcion02.sh < entrada < salid2a > err
+  461  vim funcion02.sh 
+  462  history | grep head
+  463  clear
+  464  bash funcion03.sh 
+  465  bash funcion03.sh Juan
+  466  bash funcion03.sh
+  467  cd TAREAS/Donnet/
+  468  ./funcion01.sh alumno04
+  469  chmod +x funcion01.sh 
+  470  ./funcion01.sh alumno04
+  471  chmod +x funcion01.sh 
+  472  ./funcion01.sh alumno04
+  473  chmod +x funcion01.sh 
+  474  ./funcion01.sh alumno04
+  475  chmod +x funcion01.sh 
+  476  ./funcion01.sh alumno04
+  477  head -7 funcion01.sh
+  478  head -7 funcion01.sh > funcion02.sh
+  479  vim funcion02.sh 
+  480  vim datos.in
+  481  vim entrada 
+  482  vim funcion02.sh 
+  483  history | grep head
+  484  head -7 funcion02.sh > funcion03.sh
+  485  vim funcion03.sh 
+  486  ls
+  487  cd TAREAS/Donnet/
+  488  greo Guadalajara Casos_Diarios_Municipio_Confirmados_20220614.csv | awak '{print $2 $25}'
+  489  grep Guadalajara Casos_Diarios_Municipio_Confirmados_20220614.csv | awak '{print $2 $25}'
+  490  grep Guadalajara Casos_Diarios_Municipio_Confirmados_20220614.csv | awk '{print $2 $25}'
+  491  grep Guadalajara Casos_Diarios_Municipio_Confirmados_20220614.csv > tmp
+  492  awk -F, '/Guadalajara/ {print $3, $230}'
+  493  awk -F, '/Guadalajara/{ print $3, $230 }' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  494  awk -F, '/Guadalajara/{ print $3, $25}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  495  awk -F, '/Guadalajara/{ print $3, $1}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  496  awk -F, '/Guadalajara/{ print $3,$2, $1}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  497  time awk -F, '/Guadalajara/{ print $3,$2, $1}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  498  time grep Guadalajara Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{ print $3,$2, $1}'
+  499  head -2 Casos_Diarios_Municipio_Confirmados_20220614.csv | tail -1 | awk -F, '{print $1}'
+  500  awk -F, 'NR==2 {print $1}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  501  awk -F, 'NR==2 {print $1 $28}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  502  awk -F, 'NR==2 {print $1 "," $28}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  503  awk -F, 'NR==2 {print $1 "\t" $28}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  504  awk -F, 'NR==2 {print $1 "\t" $28, NF}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  505  NF numero de columnas
+  506  history
+  507  history -7 | tail 
+  508  history | tail -17
+  509  history | tail -21
+  510  history | tail -22 > histoawk21.jun.22.dat
+  511  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+  512  export PAGER=cat
+  513  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+  514  comp=$(cut -d, -f2 lista.dat | sort -u)
+  515  echo ${#comp}
+  516  echo $comp
+  517  fot txt in $comp
+  518  do
+  519  echo $txt $(grep $txt lista.dat | wc -l )
+  520  comp=$(cut -d, -f2 lista.dat | sort -u)
+  521  echo ${#comp}
+  522  echo $comp
+  523  for txt in $comp; do echo $txt $(grep $txt lista.dat | wc -l ); done
+  524  echo $?
+  525  comp=$(cut -d, -f2 lista.dat | sort -u)
+  526  echo ${#comp}
+  527  echo $comp
+  528  for txt in $comp; do echo $txt $(grep $txt lista.dat | wc -l ); done
+  529  echo $?
+  530  comp=$(cut -d, -f2 lista.dat | sort -u)
+  531  echo ${#comp}
+  532  echo $comp
+  533  for txt in $comp
+  534  comp=$(cut -d, -f2 lista.dat | sort -u)
+  535  #echo ${#comp}
+  536  #echo $comp
+  537  for txt in $comp; do num=$(grep $txt lista.dat | wc -l ); printf " La variable ${RED}$txt${NC} ocurre $num veces\n"; done
+  538  print f "I ${RED}love${NC} Stack overflow\n!
+  539  comp=$(cut -d, -f2 lista.dat | sort -u)
+  540  #echo ${#comp}
+  541  #echo $comp
+  542  for txt in $comp; do num=$(grep $txt lista.dat | wc -l ); printf " La variable ${RED}$txt${NC} ocurre $num veces\n"; done
+  543  print f "I ${RED}love${NC} Stack Overflow\n!
+  544  comp=$(cut -d, -f2 lista.dat | sort -u)
+  545  #echo ${#comp}
+  546  #echo $comp
+  547  for txt in $comp; do num=$(grep $txt lista.dat | wc -l ); printf " La variable ${RED}$txt${NC} ocurre $num veces\n"; done
+  548  print f "I ${RED}love${NC} Stack Overflow\n!
+  549  comp=$(cut -d, -f2 lista.dat | sort -u)
+  550  #echo ${#comp}
+  551  #echo $comp
+  552  RED='\033[0;31m'
+  553  NC='\033[0m' #No color
+  554  for txt in $comp; do num=$(grep $txt lista.dat | wc -l ); printf " La variable ${RED}$txt${NC} ocurre $num veces\n"; done
+  555  print f "I ${RED}love${NC} Stack Overflow\n!
+  556  comp=$(cut -d, -f2 lista.dat | sort -u)
+  557  #echo ${#comp}
+  558  #echo $comp
+  559  RED='\033[0;31m'
+  560  NC='\033[0m' #No color
+  561  for txt in $comp; do num=$(grep $txt lista.dat | wc -l ); printf " La variable ${RED}$txt${NC} ocurre $num veces\n"; done
+  562  print f "I ${RED}love${NC} Stack Overflow\n!
+  563  cd TAREAS/Donnet/
+  564  ls
+  565  cd TAREAS/Donnet/
+  566  ls
+  567  mu
+  568  gjg
+  569  clear
+  570  mun
+  571  clear
+  572  echo $PS1
+  573  printenv
+  574  printenv | nl
+  575  printenv | cal -n
+  576  printenv | cat -n
+  577  printenv | grep
+  578  printenv | grep -i jupyter
+  579  printenv | grep -i jup
+  580  printenv | grep -i jup printenv
+  581  printenv | grep -i jup
+  582  printenv | grep ^JUP
+  583  printenv | grep ^J
+  584  printenv | grep ^Sh
+  585  printenv | grep -i ^Sh
+  586  printenv | grep -i ^Ss
+  587  https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080_annotated.jpg
+  588  echo https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080_annotated.jpg | 
+  589  printenv | awk '{print}'
+  590  printenv | awk 'BEGIN {print "Procesando..."}'
+  591  printenv | awk 'BEGIN {print "Procesando..."} ; END {print 2+2 }'
+  592  printenv | awk 'BEGIN {print "Procesando..."} ; END {print 2+2 } ; {print}'
+  593  printenv | awk 'BEGIN {print "Procesando..."} ; {print 2+2 } ; END {print}'
+  594  printenv | awk 'BEGIN {print "Procesando..."} ; END {print 2+2 } ; {print}'
+  595  printenv | awk -F= '{print $0 }'
+  596  printenv | awk -F= '{print $1 }'
+  597  printenv | awk -F= '{print $2 }'
+  598  printenv | awk -F= '{print $2$1 }'
+  599  printenv | awk -F= '{print $0 }'
+  600  printenv | awk -F= '{print $2$1 }'
+  601  printenv | awk -F= '{print $2,$1 }'
+  602  printenv | awk -F= '{print "+++ "$2",$1 }'
+  603  printenv | awk -F= '{print $2 "," $1 }'
+  604  printenv | awk -F= '{print $1 "," $2 "," $1 }'
+  605  printenv | grep XDG | awk -F= '{print $1 "," $2 "," $1 }'
+  606  printenv | grep XDG |
+  607  printenv | grep XDG 
+  608  printenv | grep XDG | awk -F= '{print $1 "," $2 "," $1 }'
+  609  printenv | awk -F= ' /XDG/ {print $1 "," $2 "," $1 }'
+  610  printenv | awk -F= ' $1 == "XDG" {print $1 }'
+  611  printenv | awk -F= ' $1 ~  "XDG" {print $1 }' | nl
+  612  printenv | awk -F= ' $1 == XDG {print $1 }'
+  613  printenv | awk -F= ' $1 == "XDG" {print $1 }'
+  614  printenv | awk -F= ' $1 ~  "XDG" {print $1 }' | nl
+  615  less -SN Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  616  printenv | awk -F= ' $1 == "28-02-2020" {print $1 }'
+  617  Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F= ' $1 == "28-02-2020" {print $1 }'
+  618  awk -F, '{print $10}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  619  awk -F, '{print $10}' Casos_Diarios_Municipio_Confirmados_20220614.csv | grep 0
+  620  awk -F, '{print $10}' Casos_Diarios_Municipio_Confirmados_20220614.csv | grep -v 0
+  621  awk -F, '{print $10}' Casos_Diarios_Municipio_Confirmados_20220614.csv | grep -v 0 | head
+  622  awk -F, '{print $10}' Casos_Diarios_Municipio_Confirmados_20220614.csv | head
+  623  less -SN Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  624  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | nl | grep 22-06-2022
+  625  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | nl | grep 22-06
+  626  awk -F, '{print $121}' Casos_Diarios_Municipio_Confirmados_20220614.csv | head
+  627  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | cat -n | grep 22-06
+  628  less -S Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  629  awk -F, '{print NF}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  630  awk -F, '{print $0,NR}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  631  awk -F, 'END {print $0,NR}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  632  awk -F, ' /"22-06"/ {print $0,NR}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  633  awk -F, ' /"22-06"/ {print $0,FNR}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  634  awk -F, ' /22-06/ {print $0,FNR}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  635  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | nl | grep 22-06
+  636  awk -F, '{print $121}'
+  637  awk -F, '{print $121}' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  638  awk -F, '{print $121}' Casos_Diarios_Municipio_Confirmados_20220614.csv | less
+  639  awk -F, '{} ' Casos_Diarios_Municipio_Confirmados_20220614.csv | less
+  640  awk -F, '{ TOTAL += TOTAL +1 } ' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  641  awk -F, '{ TOTAL += TOTAL + 1 ; print TOTAL } ' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  642  awk -F, '{ TOTAL =+ TOTAL + 1 ; print TOTAL } ' Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  643  awk -F, '{ TOTAL =+ TOTAL + 1 ; print TOTAL } ' Casos_Diarios_Municipio_Confirmados_20220614.csv | less
+  644  awk -F, '{ TOTAL =+ TOTAL + 1 ; END { print TOTAL } ' Casos_Diarios_Municipio_Confirmados_20220614.csv | less
+  645  awk -F, '{ TOTAL =+ TOTAL + 1 ; END { print TOTAL } ' Casos_Diarios_Municipio_Confirmados_20220614.csv
+  646  awk -F, '{ TOTAL =+ TOTAL + 1 ; END {print TOTAL}' Casos_Diarios_Municipio_Confirmados_20220614.csv
+  647  awk -F, '{ TOTAL =+ TOTAL + 1} ; END {print TOTAL}' Casos_Diarios_Municipio_Confirmados_20220614.csv
+  648  awk -F, '{TOTAL =+ $121} ; END {print TOTAL}' Casos_Diarios_Municipio_Confirmados_20220614.csv
+  649  awk -F, '{TOTAL =+ $121}' Casos_Diarios_Municipio_Confirmados_20220614.csv
+  650  awk -F, '{TOTAL =+ $121} ; {print TOTAL}' Casos_Diarios_Municipio_Confirmados_20220614.csv
+  651  awk -F, '{TOTAL =+ $121} ; {print TOTAL}' Casos_Diarios_Municipio_Confirmados_20220614.csv | less
+  652  #cat Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL =+ $121} ; {print TOTAL}'
+  653  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv  -S
+  654  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv
+  655  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv | less -S
+  656  grep -v cve Casos_Diarios_Municipio_Confirmados_20220614.csv | less -S
+  657  grep cve Casos_Diarios_Municipio_Confirmados_20220614.csv | less -S
+  658  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | less -S
+  659  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL =+ $121} ; {print TOTAL}'
+  660  q
+  661  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL += $121} ; {print TOTAL}'
+  662  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL += $121} ; END {print TOTAL}'
+  663  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL += $121} ; END {print "Casos totales 22-Junio-2020: " TOTAL}'
+  664  less -S Casos_Diarios_Municipio_Confirmados_20220614.csv 
+  665  head -1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | nl | grep 22-06
+  666  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL += $121} ; END {print "Casos totales 22-Junio-2020: " TOTAL}'
+  667  grep -v cve_ent Casos_Diarios_Municipio_Confirmados_20220614.csv | awk -F, '{TOTAL += $486} ; END {print "Casos totales 22-Junio-2021: " TOTAL}'
+  668  ls
+  669  history > histoawk22.jun.22.dat
+  670  exit
+  671  cd TAREAS/Donnet/
+  672  ls
+  673  exit
+  674  cd TAREAS
+  675  vim procesa-completo.sh 
+  676  cd TAREAS/Donnet/
+  677  vim
+  678  ls
+  679  mv head -n 1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | nl | grep 12-12-2020 |cut -f 1
+  680  mv buscarfechasCovid procesa.sh
+  681  rm buscarfechas*
+  682  ls
+  683  vim procesa.sh
+  684  new
+  685  vim 
+  686  cd TAREAS
+  687  cp procesa-completo.sh Donnet/
+  688  cd TAREAS/IAA/
+  689  vim
+  690  PS1='[PEXP\[\]ECT_PROMPT>' PS2='[PEXP\[\]ECT_PROMPT+' PROMPT_COMMAND=''
+  691  export PAGER=cat
+  692  display () {     TMPFILE=$(mktemp ${TMPDIR-/tmp}/bash_kernel.XXXXXXXXXX);     cat > $TMPFILE;     echo "bash_kernel: saved image data to: $TMPFILE" >&2; }
+  693  cd TAREAS/Donnet/
+  694  head -n 1 Casos_Diarios_Municipio_Confirmados_20220614.csv | tr "," "\n" | nl | grep 12-12-2020 |cut -f 1
+  695  bash -v procesa.sh 
+  696  bash -v procesa.sh 12-11-2020
+  697  chmod procesa.sh
+  698  chmod :x  procesa.sh
+  699  chmod -x  procesa.sh
+  700  ./procesa.sh
+  701  ls
+  702  grep "chmod" histoawk2*
+  703  chmod +x  procesa.sh
+  704  ls
+  705  bash -x procesa.sh 
+  706  bash -v procesa.sh
+  707  ./procesa.sh 
+  708  bash -v procesa.sh 12-11-2020
+  709  ./procesa.sh 12-11-2020
+  710  seq 1 5
+  711  for dia in $(seq 1 31) ; do echo " el dia es $dia" ; done
+  712  ./procesa.sh 12-12-2020
+  713  for dia in $(seq 1 9) ; do echo " el dia es 0$dia-12-2020" ; done
+  714  for dia in $(seq 1 9) ; do bash procesa.sh 0$dia-12-2020" ; done
+  715  for dia in $(seq 01 9) ; do bash procesa.sh 0$dia-12-2020" ; done
+  716  ls
+  717  bash -v procesa.sh 
+  718  bash -v procesa.sh 12-12-2020
+  719  ./procesa.sh 12-12-2020
+  720  for dia in $(seq 01 9) ; do bash procesa.sh 0$dia-12-2020" ; done | awk '{print $2}'
+  721  for dia in $(seq 01 9) ; do bash procesa-completo.sh 0$dia-12-2020" ; done | awk '{print $2}'
+  722  done
+  723  for dia in $(seq 01 9 ) ; do bash procesa-completo.sh 0$dia-12-2020 ; done | awk '{print $2}'
+  724  for dia in $(seq 01 9 ) ; do bash procesa.sh 0$dia-12-2020 ; done | awk '{print $2}'
+  725  ls
+  726  head -n 1 Casos_Diarios_Municipio_Confirmados_20220614.csv | grep 06-20
+  727  head -n 1 Casos_Diarios_Municipio_Confirmados_20220614.csv| tr "," "\n" | grep 06-20
+  728  bash -v procesa.sh 12-2020
+  729  bash -v procesa.sh 12 2020
+  730  bash -v procesa.sh 02 2020
+  731  vim 
+  732  chmod +x nuevoprocesa.sh 
+  733  ./nuevoprocesa.sh 
+  734  ./nuevoprocesa.sh 02-03-2020
+  735  ./nuevoprocesa.sh 03 2020
+  736  ./procesa.sh 
+  737  chmod +x procesa.sh 
+  738  ./procesa.sh 
+  739  ./procesa.sh 29-02-2020
+  740  columna 7 casos 2
+  741  ./procesa.sh 01-03-2020
+  742  ./procesa.sh 03 2020
+  743  VAR=$(bash procesa.sh 03 2020)
+  744  echo VAR=$(bash procesa.sh 03 2020)
+  745  for FECHA in $VAR ; do echo "la fecha es #FECHA"; done
+  746  for FECHA in $VAR ; do echo "la fecha es $FECHA"; done
+  747  for FECHA in $(bash procesa.sh 03 2020) ; do echo "la fecha es $FECHA"; done
+  748  ./procesa.sh 
+  749  basg procesa 02 2020
+  750  bash procesa 02 2020
+  751  bash procesa.sh 02 2020
+  752  bash procesa.sh 02 2020 | wc
+  753  bash procesa.sh 02 2020
+  754  exit
+  755  cd TAREAS/Donnet/
+  756  ls
+  757  vim procesa.sh 
+  758  help test
+  759  vim procesa.sh 
+  760  bash procesa.sh 03 2020 no-hay.csv
+  761  cp ../procesa-completo-verfica-archivo.sh .
+  762  ls
+  763  bash -v procesa.sh 03 2020 no-hay.csv
+  764  exit
+  765  cd TAREAS/Donnet/
+  766  mkdir repositorio
+  767  cd repositorio/
+  768  ls all
+  769  ls
+  770  ls -all
+  771  git -help
+  772  git --help
+  773  git pwd
+  774  pwd
+  775  git init
+  776  git config --global init.defaultBranch git
+  777  ls -all
+  778  ls .git/
+  779  du -sh .git
+  780  ls .*/
+  781  ls ./
+  782  ls .*
+  783  ls .git/
+  784  ls -all
+  785  git status
+  786  touch hola.git
+  787  ls
+  788  git status
+  789  git add hola.git 
+  790  git status
+  791  git commit 
+  792  git config --global user.email "donnet.riosv@gmail.com"
+  793  git config --global user.name  "Donnet"
+  794  git config --list 
+  795  git config -l
+  796  git status 
+  797  git commit 
+  798  git status 
+  799  git log
+  800  git log --oneline 
+  801  vim hola.git 
+  802  git status 
+  803  mkdir datos
+  804  cp ../../*.csv datos/
+  805  cp -v ../../*.csv datos/
+  806  cp -v ../../../*.csv datos/
+  807  cd datos/
+  808  ls
+  809  cd ../
+  810  git status 
+  811  ls
+  812  git add .
+  813  git status 
+  814  cp -v ../*.csv datos/
+  815  ls
+  816  git status 
+  817  git add .
+  818  git status 
+  819  git commit -m 'Agregamos datos'
+  820  git log
+  821  touch local_config.txt
+  822  ls
+  823  mkdir logs
+  824  ls
+  825  git status 
+  826  touch logs/24jun2022
+  827  git status 
+  828  ls ../Donnet/
+  829  ls ../
+  830  cp -v ../Herramientas_1.ipynb .
+  831  ls -all
+  832  ls .ipynb_checkpoints/
+  833  git status 
+  834  vim git.ignore
+  835  git status 
+  836  vim git.ignore
+  837  git status 
+  838  vim git.ignore
+  839  rm git.ignore .gitignore
+  840  mv git.ignore .gitignore
+  841  ls
+  842  vim git.ignore
+  843  vim .gitignore
+  844  git status 
+  845  vim .gitignore
+  846  git status 
+  847  git add .
+  848  git status 
+  849  git commit -m "se ignoran config locales"
+  850  git status 
+  851  git log
+  852  git log -o
+  853  git log --oneline 
+  854  git log n-1
+  855  git log -n1
+  856  git log --autor="Donnet"
+  857  git log --autor='Donnet'
+  858  git log --author='Donnet'
+  859  git log --author="Donnet"
+  860  git lof --date="2022-06-24"
+  861  git log --date="2022-06-24"
+  862  git log --date="23-06-2022"
+  863  git log --since="23-06-2022"
+  864  git sta
+  865  git status 
+  866  git remote add origin https://github.com/Donnet01/intersemestral22.git
+  867  git branch
+  868  git push -u origin master
+  869  git remote add origin git@github.com:Donnet01/intersemestral22.git
+  870  ls .ssh/
+  871  ssh-keygen -t rsa -C "nuevaalumno04"
+  872  ls .ssh/
+  873  ls /home/curso2022/alumno04/.ssh/
+  874  ls /home/curso2022/alumno04/id_rsa/.ssh/
+  875  cd
+  876  ls -all
+  877  ls .ssh/
+  878  ssh-keygen -t rsa -C "nuevaalumno04"
+  879  ls git .ssh/
+  880  ls -all .ssh/
+  881  cat .ssh/id_rsa.pub 
+  882  ls
+  883  cd TAREAS
+  884  ls
+  885  cd Donnet/
+  886  git push -u origin master
+  887  git status 
+  888  cd repositorio/
+  889  git status 
+  890  git push -u origin master
+  891  git reset
+  892  git status 
+  893  git rm yes*
+  894  rm yes*
+  895  git status 
+  896  git remote add origin git@github.com:Donnet01/intersemestral22.git
+  897  git push -u origin main
+  898  git remote add origin
+  899  git remote remove origin
+  900  git remote add origin git@github.com:Donnet01/intersemestral22.git
+  901  git push -u origin master
+  902  git branch -M master
+  903  git push -u origin master
+  904  ls
+  905  git pull
+  906  ls
+  907  cd 
+  908  cd TAREAS/Donnet/
+  909  ls
+  910  mkdir repositorio_remoto
+  911  cd repositorio
+  912  cd ../
+  913  cd repositorio_remoto/
+  914  git clone git@github.com:Bash-it/bash-it.git
+  915  ls
+  916  history | wc -l
+  917  git status 
+  918  cd bash-it/
+  919  git status 
+  920  ls
+  921  git status 
+  922  ls .git/
+  923  cd ../../
+  924  ls
+  925  history > histoGitHub24.jun.22.dat
+  926  head histoGitHub24.jun.22.dat 
+  927  tail histoGitHub24.jun.22.dat 
+  928  cd TAREAS/Donnet/
+  929  bash procesa-completo-verfica-archivo.sh 
+  930  bash procesa-completo-verfica-archivo.sh 03 2020
+  931  ./procesa-completo-verfica-archivo.sh 03 2020
+  932  ls
+  933  bash procesa-completo-bueno.sh 03 2020
+  934  ls
+  935  bash :x procesa-completo-verfica-archivo.sh 
+  936  bash +x procesa-completo-verfica-archivo.sh 
+  937  bash procesa-completo-verfica-archivo.sh 
+  938  cd ../PDCS/
+  939  bash procesa.sh 
+  940  bash procesa.sh 03 2021
+  941  cd TAREAS/Donnet/
+  942  pwd
+  943  cd repositorio
+  944  git status
+  945  git log
+  946  git log --online
+  947  git log --oneline
+  948  ls -all
+  949  git branch 
+  950  git add .
+  951  git diff
+  952  ls
+  953  git diff HEAD
+  954  cp ../modificado001.csv .
+  955  git diff HEAD
+  956  git add .
+  957  git diff HEAD
+  958  ls
+  959  git status
+  960  git diff HEAD~1
+  961  git restore modificado001.csv
+  962  ls
+  963  git restore --staged modificado001.csv
+  964  ls
+  965  git reset 
+  966  git status 
+  967  gir reset
+  968  git restore
+  969  git restore .
+  970  ls
+  971  git log --oneline 
+  972  ls 
+  973  git status 
+  974  git reset --hard 31629d1
+  975  ls
+  976  git add .
+  977  git commit -m "se agrega modifica"
+  978  git log --oneline 
+  979  git sta
+  980  git status 
+  981  ls
+  982  git status 
+  983  git branch
+  984  lsd
+  985  ls
+  986  mv hola.git hola2.git
+  987  ls
+  988  git status 
+  989  git restore .
+  990  ls
+  991  git mv hola.git hola2.git 
+  992  ls
+  993  git status 
+  994  git branch 
+  995  git branch  nueva_func
+  996  git branch 
+  997  git checkout nueva_func 
+  998  git status 
+  999  git add .
+ 1000  git commit -m "antes branch"
+ 1001  git status 
+ 1002  git branch master 
+ 1003  git branch 
+ 1004  git branch master 
+ 1005  git checkout master 
+ 1006  git add .
+ 1007  git commit -m "antes branch"
+ 1008  git status 
+ 1009  git branch -d nueva_func 
+ 1010  git branch new_branch
+ 1011  git branch
+ 1012  git branch -d nueva_func 
+ 1013  git branch -D nueva_func 
+ 1014  git branch new_branch
+ 1015  git checkout new_branch 
+ 1016  git status 
+ 1017  ls
+ 1018  git mv hola.git hola2.git 
+ 1019  git status 
+ 1020  git checkout master 
+ 1021  git add .
+ 1022  git commit .
+ 1023  git commit -m "new_branch"
+ 1024  git status 
+ 1025  git checkout new_branch 
+ 1026  git branch
+ 1027  touch seguridad
+ 1028  git status 
+ 1029  git add .
+ 1030  git status 
+ 1031  ls
+ 1032  git checkout master 
+ 1033  ls
+ 1034  git status 
+ 1035  git checkout new_branch 
+ 1036  git commit -m "se agrega seguridad"
+ 1037  git status 
+ 1038  git log
+ 1039  git log --oneline 
+ 1040  git checkout master 
+ 1041  ls
+ 1042  git log --oneline  --all --graph
+ 1043  git checkout new_branch 
+ 1044  ls
+ 1045  vim seguridad 
+ 1046  cat seguridad 
+ 1047  vim seguridad 
+ 1048  cat seguridad 
+ 1049  git add..
+ 1050  git add .
+ 1051  git commit -m "seguridad probada"
+ 1052  git status 
+ 1053  git log --oneline 
+ 1054  git checkout master 
+ 1055  git log --oneline --all --graph 
+ 1056  ls
+ 1057  git branch 
+ 1058  git merge new_branch 
+ 1059  ls
+ 1060  git branch -d new_branch 
+ 1061  git branch
+ 1062  nano
+ 1063  git status
+ 1064  git branch 
+ 1065  ls ../
+ 1066  history > histoGit27.jun.22.dat
