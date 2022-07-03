@@ -1,4 +1,9 @@
 #!/bin/bash 
+#:   Autor:   Donnet
+#:   Fecha:   03 Jul 2022
+#:   Proposito:  Obtener datos acumulados covid
+#:   Opciones:   ninguna
+##   https://github.com/Donnet01/intersemestral22
 
 _obtiene_campo(){
 
@@ -30,5 +35,3 @@ done > suma_Casos_Covid.csv
 
 echo -n "Los casos acumulados de $1-$2 son: "
 suma_mes= awk -F ': ' '{sum += $2} END {print sum}' suma_Casos_Covid.csv
-
-#_suma_resultado $(_obtiene_campo $1)
